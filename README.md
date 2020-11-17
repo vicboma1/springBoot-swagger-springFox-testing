@@ -14,7 +14,7 @@ Proyecto piloto para testear endpoints junto con un frontend
 
 ## URL -> http://localhost:8080/swagger-ui.html#/ 
 
-<img src="https://github.com/vicboma1/springBoot-swagger-springFox-testing/blob/main/assets/Api.gif" width="800" height="640" />
+<img src="https://github.com/vicboma1/springBoot-swagger-springFox-testing/blob/main/assets/Api.gif" width="800" height="450" />
 
 ## Swagger2
 ```
